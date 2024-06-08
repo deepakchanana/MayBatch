@@ -6,6 +6,7 @@ public class Deepak
 	public void me1()
 	{
 		System.out.println("Welcome guys ");
+		System.out.println("changes done");
 	}
 	public static void main(String[] args) 
 	{
